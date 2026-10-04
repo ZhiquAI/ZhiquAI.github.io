@@ -1,0 +1,17 @@
+{
+  "name": "Unit 1 Greetings 互动点读绘本",
+  "short_name": "Greetings",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f4eb",
+  "theme_color": "#f8f4eb",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "/icons/english-reader.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
